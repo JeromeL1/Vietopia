@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/build/static/css/main.a534f9f4.chunk.css",
+    "main.js": "/build/static/js/main.75d176f9.chunk.js",
+    "main.js.map": "/build/static/js/main.75d176f9.chunk.js.map",
+    "runtime-main.js": "/build/static/js/runtime-main.50d7bb01.js",
+    "runtime-main.js.map": "/build/static/js/runtime-main.50d7bb01.js.map",
+    "static/css/2.e113374d.chunk.css": "/build/static/css/2.e113374d.chunk.css",
+    "static/js/2.32322cdf.chunk.js": "/build/static/js/2.32322cdf.chunk.js",
+    "static/js/2.32322cdf.chunk.js.map": "/build/static/js/2.32322cdf.chunk.js.map",
+    "static/js/3.6b21661e.chunk.js": "/build/static/js/3.6b21661e.chunk.js",
+    "static/js/3.6b21661e.chunk.js.map": "/build/static/js/3.6b21661e.chunk.js.map",
+    "index.html": "/build/index.html",
+    "static/css/2.e113374d.chunk.css.map": "/build/static/css/2.e113374d.chunk.css.map",
+    "static/css/main.a534f9f4.chunk.css.map": "/build/static/css/main.a534f9f4.chunk.css.map",
+    "static/js/2.32322cdf.chunk.js.LICENSE.txt": "/build/static/js/2.32322cdf.chunk.js.LICENSE.txt",
+    "static/media/arrow-right-icon.c4ea6a92.svg": "/build/static/media/arrow-right-icon.c4ea6a92.svg",
+    "static/media/customize-icon.367468c9.svg": "/build/static/media/customize-icon.367468c9.svg",
+    "static/media/design-illustration.415c277c.svg": "/build/static/media/design-illustration.415c277c.svg",
+    "static/media/dot-pattern.ee6f4f0e.svg": "/build/static/media/dot-pattern.ee6f4f0e.svg",
+    "static/media/email-illustration.84fb82b8.svg": "/build/static/media/email-illustration.84fb82b8.svg",
+    "static/media/facebook-svgrepo-com.08923328.svg": "/build/static/media/facebook-svgrepo-com.08923328.svg",
+    "static/media/google-plus-svgrepo-com.f0b06697.svg": "/build/static/media/google-plus-svgrepo-com.f0b06697.svg",
+    "static/media/instagram-svgrepo-com.62572c86.svg": "/build/static/media/instagram-svgrepo-com.62572c86.svg",
+    "static/media/menu.svg": "/build/static/media/menu.644fa295.svg",
+    "static/media/shield-icon.daefe14b.svg": "/build/static/media/shield-icon.daefe14b.svg",
+    "static/media/shop-icon.048628c9.svg": "/build/static/media/shop-icon.048628c9.svg",
+    "static/media/support-icon.f9253ffa.svg": "/build/static/media/support-icon.f9253ffa.svg",
+    "static/media/svg-decorator-blob-3.de3cee31.svg": "/build/static/media/svg-decorator-blob-3.de3cee31.svg",
+    "static/media/svg-decorator-blob-5.3175ec40.svg": "/build/static/media/svg-decorator-blob-5.3175ec40.svg",
+    "static/media/svg-decorator-blob-7.04fa60c9.svg": "/build/static/media/svg-decorator-blob-7.04fa60c9.svg",
+    "static/media/vietopia_gold.a99fcef1.png": "/build/static/media/vietopia_gold.a99fcef1.png",
+    "static/media/x.svg": "/build/static/media/x.6c9a4ba7.svg",
+    "static/media/yelp-svgrepo-com.3df62c43.svg": "/build/static/media/yelp-svgrepo-com.3df62c43.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.50d7bb01.js",
+    "static/css/2.e113374d.chunk.css",
+    "static/js/2.32322cdf.chunk.js",
+    "static/css/main.a534f9f4.chunk.css",
+    "static/js/main.75d176f9.chunk.js"
+  ]
+}
